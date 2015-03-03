@@ -6,6 +6,7 @@
 	<groupId>sparkle</groupId>
 	<artifactId>sparkle</artifactId>
 	<version>3.2-SNAPSHOT</version>
+	<packaging>war</packaging>
 
 
 	<dependencies>
