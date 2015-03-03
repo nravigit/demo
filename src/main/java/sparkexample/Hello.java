@@ -6,7 +6,7 @@ public class Hello {
 
     public static void main(String[] args) {
         get("/", (req, res) -> {
-            return "hello from lemon-solutions.com";
+            return "hello from sparkjava.com";
         });
     }
 }
